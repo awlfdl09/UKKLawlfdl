@@ -1,0 +1,2 @@
+||2022-11-02|12:00|Karawang|34 Celcius
+||2022-01-01|15:00|Cikampek|33 Celcius
